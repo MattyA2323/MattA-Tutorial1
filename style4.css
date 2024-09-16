@@ -1,0 +1,43 @@
+
+.body {
+    max-width: 11500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.body section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.body h2 {
+    font-size: 2em;
+    color: #151515;
+}
+
+.body p {
+    font-size: 1.1em;
+    color: #151515;
+}
+
+.body a {
+    color: #2181ff;
+    text-decoration: none;
+}
+
+.body a:hover {
+    text-decoration: underline;
+}
+
+.body #Home, .body #News, .body #Experience, .body #Contact, .body #About {
+    background-color: #d7d7d7;
+}
+
+.body {
+    padding-bottom: 50px;
+}
+
+
